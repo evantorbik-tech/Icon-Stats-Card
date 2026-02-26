@@ -1,0 +1,19 @@
+body{
+    background-color: lightgray;
+}
+
+.one{
+    background-color: white;
+    border-radius: 15px;
+}
+
+.two {
+  background-color: white;
+    border-radius: 15px;
+}
+
+
+table, tr, th {
+    border: 1px solid black;
+}
+
